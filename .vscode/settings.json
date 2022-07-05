@@ -8,6 +8,14 @@
   ],
   "files.associations": {
     "ledc.h": "c",
-    "mcpwm.h": "c"
+    "mcpwm.h": "c",
+    "esp_log.h": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "regex": "c",
+    "*.ipp": "c",
+    "cerrno": "c",
+    "*.inc": "c"
   }
 }
